@@ -27,7 +27,7 @@ The system will keep a record of pre-orders which include a date and pick-up tim
 
 2. Install Python, be sure to check “Add Python to PATH” during installation: https://www.python.org/downloads/
 
-3. Create a project folder and place the following files from the "MNMarketLinkApp" folder from this repository inside, make sure you're inside this project folder in your IDE.
+3. Create a project folder and place the following files from the "MNMarket" folder from this repository inside, make sure you're inside this project folder in your IDE.
    - mnmarketlink.py
    - db_config_example.py
    - requirements.txt
